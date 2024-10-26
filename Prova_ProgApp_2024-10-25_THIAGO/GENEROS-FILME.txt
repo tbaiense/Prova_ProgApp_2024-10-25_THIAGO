@@ -1,0 +1,8 @@
+---- GENEROS FAVORITOS ----
+1 favs. --- Acao
+0 favs. --- Comedia
+0 favs. --- Aventura
+0 favs. --- Romance
+0 favs. --- Suspence
+1 favs. --- Terror
+
